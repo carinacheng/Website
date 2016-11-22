@@ -1,0 +1,117 @@
+<HTML>
+
+<TITLE>
+Carina Cheng
+</TITLE>
+
+<BODY>
+
+<div style="position: relative; left: 0; top: 0;">
+  <img src="CarinaNeb.jpg" width=726 height=211 style="position:relative; top: 0;left: 0;"/>
+  <img src="Carina.jpg" width=180 height=180 style="position: absolute; top: 15; left: 520;"/>
+</div>
+<DIV STYLE="position:absolute; top:150px; left:30px; width:728px; height:211px">
+<LEFT><FONT SIZE="+4" font face = "verdana" COLOR="000000">CARINA CHENG</FONT></CENTER>
+</DIV>
+
+<!--
+  <a href="#" class="button">Home</a>
+  <a href="#" class="button">Resume</a>
+  <a href="#" class="button">Contact Me</a>
+-->
+
+<font face = "verdana">
+<h2>About Me</h2>
+<p> I am a second year astrophysics doctoral student at UC Berkeley. Originally
+  from San Diego, I earned my undergraduate degree from UCLA. I am currently
+  working with
+  Professor <a href="http://astro.berkeley.edu/people/faculty/parsons.html">Aaron Parsons</a> on the detection of the Epoch of
+  Reionization, a period of history in the early Universe when the first stars
+  and galaxies ionized most of the neutral hydrogen. To look far back in time
+  (about 13 billion years ago!)
+  and carry out this experiment, we build radio telescopes
+  in South Africa (<a href="http://eor.berkeley.edu">PAPER</a> and soon <a href="http://reionization.org">HERA</a>). </p>
+<p>In addition to 21cm cosmology, I have
+  research interests in optical astronomy, adaptive optics, black holes, and
+  large-scale structure. In my free time you can find me traveling, watching
+  movies, or doing outreach.
+
+<h2>Resume</h2>
+<p> You can read my resume <a href="Resume.pdf">here</a>. </p>
+
+<h2>Contact Me</h2>
+<p> Carina Cheng <br>
+Astronomy Department <br>
+D-355 Hearst Field Annex <br>
+University of California, Berkeley <br>
+Berkeley, CA 94720-3411 <br><br>
+E-mail: ccheng [at] berkeley [dot] edu
+  
+
+
+<!--
+<H1> Lea Hirsch </H1>
+
+<img src="lea4.jpg" width="250">
+<img src="forcastim.jpg" width="250"><br>
+<img src="lea2.jpeg" width="250">
+<img src="lea3.jpeg" width="250">
+
+<br>
+<br>
+<H3>About Me</H3>
+<p>I am a second-year astronomy graduate student at the University of 
+California, Berkeley. I completed my undergraduate degree in Physics at 
+Cornell University, where I worked with the SOFIA team on data collected by 
+the Cornell-built infrared instrument, FORCAST. My initial research involved 
+calibration of the instrument following the first series of diagnostic flights 
+aboard SOFIA. Later, I focused on the Ultra-Compact HII region W3(OH), a site 
+of recent massive star formation. I utilized the radiative transfer code 
+DUSTY to model the region, and the online Robitaille protostellar model grid 
+to learn about nearby protostars.</p>
+
+<p>Since arriving at Berkeley, I have worked with Professor 
+<a href="astro.berkeley.edu/~gmarcy">Geoff Marcy</a>. My first project involved
+the characterization of exoplanet host stars using the SpecMatch routine, 
+which compares target star spectra to a stellar spectral library to determine
+properties such as surfact temperature, gravity, and metallicity.
+I conducted a rigorous analysis of the library, removing binary stars which
+confuse the algorithm, in an effort to streamline the process by which host
+star, and thus planet, parameters are determined.</p>
+
+<p>I have since moved on to study binary stars themselves using both radial
+velocity data from the California Planet Search and adaptive optics 
+observations from the Lick Observatory's Shane 3-meter telescope. My ultimate
+goal in this project is to contribute to the understanding of how planets form
+and evolve in binary stellar systems, in comparison to single stellar systems.
+I will pursue this question by surveying stars within 20 pc of the Sun using 
+adaptive optics and RV data to isolate stars with binary companions. I will 
+then use RV data to constrain the comparative occurrence rate and properties 
+of planets in stellar systems with and without a binary companion.
+
+<H3>Publications</H3>
+<a href="http://adsabs.harvard.edu/abs/2012ApJ...757..113H">Hirsch, L. et al. 
+2012</a><br>
+
+<H3>Teaching</H3>
+Astronomy/EPS/L&ampS C12 Fall 2012<br>
+Astronomy 7a Fall 2013<br>
+
+<H3>Outreach</H3>
+2009 and 2012 Annual Expanding Your Horizons Conference<br>
+2012 and 2013 Discovery Day at AT&ampT Park <br>
+2012 and 2013 Bay Area Scientists in Schools participant<br>
+Helped design and build demonstration on stellar parallax as a distance measure<br>
+
+<H3>Contact Me</H3>
+Lea Hirsch<br>
+Astronomy Department<br> 
+University of California Berkeley<br>
+Hearst Field Annex, Office C-255<br>
+<br>
+Email: lhirsch@berkeley.edu
+-->
+
+
+</BODY>
+</HTML>
