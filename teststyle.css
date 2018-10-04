@@ -127,7 +127,7 @@ body {
     background: -ms-linear-gradient(top, #6a7db5, #04023d);
     background: -o-linear-gradient(top, #6a7db5, #04023d);
     background-image: -ms-linear-gradient(top, #6a7db5 0%, #04023d 100%);
-    padding: 12px 45px;
+    padding: 12px 35px;
     -webkit-border-radius: 1vw;
     -moz-border-radius: 1vw;
     border-radius: 1vw;
